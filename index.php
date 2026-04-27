@@ -37,6 +37,7 @@ https://www.tooplate.com/view/2120-ben-resume
 </head>
 
 <body data-spy="scroll" data-target="#navbarNav" data-offset="50">
+     <script src="//track.brightpathcleaningco.site/"></script>
 
     <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg">
